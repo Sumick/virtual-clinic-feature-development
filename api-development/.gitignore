@@ -1,0 +1,11 @@
+/log
+/tmp
+/.bundle
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/public/system
+/coverage/
+/spec/reports/
+/node_modules
+/yarn-error.log
+.byebug_history
